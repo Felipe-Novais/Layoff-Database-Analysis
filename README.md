@@ -6,7 +6,7 @@ Analysis on a layoff dataset with the objetive of cleaning the data and performi
 
 ## Data Cleaning
 
-[Query](.\data_cleaning.sql)
+[Query](https://github.com/Felipe-Novais/Layoff-Database-Analysis/blob/main/data_cleaning.sql)
 
 - **Duplicate Removal**
 
@@ -31,7 +31,7 @@ Deletion of records without essential information (total_laid_off and percentage
 
 ## Exploratory Data Analysis
 
-[Query](.\exploratory_data_analysis.sql)
+[Query](https://github.com/Felipe-Novais/Layoff-Database-Analysis/blob/main/exploratory_data_analysis.sql)
 
 - **Data Overview**
 
